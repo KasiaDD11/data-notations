@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transport>
+    <Transport>
+        <typ>car</typ>
+        <cechy>
+            <model marka="Suzuki">SX-4</model>
+            <przyspieszenie rodzaj="Do 100km/h">9s</przyspieszenie>
+            <kolor>czarny</kolor>
+            <rocznik>2006</rocznik>
+        </cechy>
+    </Transport>
+    <Transport>
+        <typ>rower</typ>
+        <cechy>
+            <model marka="decatlon">szybki</model>
+            <przyspieszenie rodzaj="do 100k/m">nie ma</przyspieszenie>
+            <kolor>zielony</kolor>
+            <rocznik>2016</rocznik>
+        </cechy>
+    </Transport>
+    <Transport>
+        <typ>pociag</typ>
+        <cechy>
+            <model marka="pkp">intercity</model>
+            <przyspieszenie rodzaj="do 100k/h">28s</przyspieszenie>
+            <kolor>bialy</kolor>
+            <rocznik>rozny</rocznik>
+        </cechy>
+    </Transport>
+</transport>

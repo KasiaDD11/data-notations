@@ -27,7 +27,11 @@
         <name>sześcian</name>
         <type>3D</type>
         <properties>
-            
+            <property>Side Length</property>
         </properties>
+        <formulas> 
+            <area>side^2*6</area>
+            <volume>side^3</volume>
+        </formulas>
     </figure>
 </geometricFigures>

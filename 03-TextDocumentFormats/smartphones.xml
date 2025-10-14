@@ -9,4 +9,12 @@
         </specs>
         <price currency="USD">799</price>
     </smartphone>
+    <smartphone brand="Iphone" model="16" releaseYear="2024">
+        <specs>
+            <screenSize unit="inch">6.1</screenSize>
+            <batteryCapacity unit="mAh">4200</batteryCapacity>
+            <storage unit="GB">128</storage>
+            <camera unit="MP">50</camera>
+        </specs>
+    </smartphone>
 </smartphones>
