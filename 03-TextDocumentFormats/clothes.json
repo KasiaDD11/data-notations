@@ -53,5 +53,27 @@
             "Outerwear",
             "Accessories"
         ]
+    },
+    {
+        "name":"Apple",
+        "founded": 1976,
+        "headquarters":"Cupertino, California, USA",
+        "employees": 164000,
+        "products":[
+            "Iphone",
+            "Ipad",
+            "Mac"
+        ]
+    },
+    {
+        "name":"McDonald's",
+        "founded":1940,
+        "headquarters": "Chicago, Illinois, USA",
+        "employees": 200000,
+        "products":[
+            "Fries",
+            "Burgers",
+            "Desserts"
+        ]
     }
 ]

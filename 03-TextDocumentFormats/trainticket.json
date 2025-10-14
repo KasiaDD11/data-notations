@@ -1,0 +1,11 @@
+{
+    "People":2,
+    "from": "Lublin",
+    "to": "Krakow",
+    "hour": 12.00,
+    "price": 31.50,
+    "isStudent": true,
+    "seats":["2D","1D"]
+
+
+}
